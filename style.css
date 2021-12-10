@@ -738,6 +738,12 @@ table {
         margin-top: 13%;
     }
 
+    .Cuotascuadro1, .Clasescuadro1, .Contactocuadro1, .Apuntatecuadro1{
+        margin-top: 15%;
+    }
+
+    
+
     
 
 
@@ -831,6 +837,13 @@ table {
         margin-top: 15%;
     }
 
+    .Cuotascuadro1, .Clasescuadro1, .Contactocuadro1{
+        margin-top: 22%;
+    }
+
+    .Apuntatecuadro1{
+        margin-top: 20%;
+    }
 }
 
 @media (max-width: 1050px) {
@@ -861,8 +874,12 @@ table {
         margin-top: 12%;
     }
 
-    .Iniciocuadro1{
+    .Iniciocuadro1, .Apuntatecuadro1{
         margin-top: 19%;
+    }
+
+    .Cuotascuadro1{
+        margin-top: 24%;
     }
 }
 
@@ -885,7 +902,7 @@ table {
     }
       
       .Cuotasc1contenido1 {
-        font-size: 9px;
+        font-size: 12px;
     }
 
     .Contactoc1contenido{
@@ -921,7 +938,7 @@ table {
     }
 
     .Apuntatec1contenido1 {
-        font-size: 13px;
+        font-size: 13.5px;
     }
 
     #Apuntateh3{
@@ -969,6 +986,10 @@ table {
     .Iniciocuadro1{
         margin-top: 21%;
     }
+
+    .Cuotascuadro1, .Clasescuadro1, .Contactocuadro1, .Apuntatecuadro1{
+        margin-top: 26%;
+    }
 }
 
 @media (max-width: 750px) {
@@ -1001,6 +1022,18 @@ table {
     .Iniciocuadro1{
         margin-top: 29%;
     }
+
+    .Cuotascuadro1, .Clasescuadro1, .Contactocuadro1, .Apuntatecuadro1{
+        margin-top: 37%;
+    }
+
+    .Contactoc1contenido1{
+        font-size: 13px;
+    }
+
+    #Apuntatebotonenviar{
+        font-size: 15px;
+    }
 }
 
 
@@ -1024,7 +1057,7 @@ table {
     }
       
       .Cuotasc1contenido1 {
-        font-size: 9px;
+        font-size: 10px;
     }
 
     .Contactoc1contenido{
@@ -1119,5 +1152,13 @@ table {
    
     .Iniciocuadro1{
         margin-top: 34%;
+    }
+
+    .Cuotascuadro1, .Clasescuadro1, .Contactocuadro1, .Apuntatecuadro1{
+        margin-top: 49%;
+    }
+    
+    #Apuntatebotonenviar{
+        font-size: 13px;
     }
 }
