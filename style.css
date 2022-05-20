@@ -849,12 +849,12 @@ table {
 @media (max-width: 1050px) {
     
     .Inicioc2{
-        font-size: 26px;
-        margin-top: 4%;
+        font-size: 25px;
+        margin-top: 3%;
     }
 
     .Iniciocontactanos{
-        margin-left: 22%;
+        margin-left: 34%;
         margin-top: 4%;
         font-size: 28px;
     }
@@ -888,13 +888,16 @@ table {
     }
 
     .Iniciocuadro2 {
-        width: 735px;
-        margin-left: 11%;
+        width: 948px;
+        margin-left: 0%;
+        margin-right: 0%;
     }
 
     .Iniciocuadro3 {
         margin-top: 8%;
-        width: 735px;
+        width: 948px;
+        margin-left: 0%;
+        margin-right: 0%;
 
     }
 
