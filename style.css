@@ -888,14 +888,14 @@ table {
     }
 
     .Iniciocuadro2 {
-        width: 955px;
+        width: 965px;
         margin-left: 0%;
         margin-right: 0%;
     }
 
     .Iniciocuadro3 {
         margin-top: 8%;
-        width: 955px;
+        width: 965px;
         margin-left: 0%;
         margin-right: 0%;
 
@@ -929,8 +929,32 @@ table {
 
     .Cuotascuadro4 {
         margin-top: 7%;
-        margin-left: 30%;
-        width: 400px;
+        margin-left: 25%;
+        width: 500px;
+    }
+
+    .Cuotastitulos {
+        font-size: 45px;
+    }
+
+    .Cuotassubinfo {
+        font-size: 20px;
+        margin-right: 2%;
+    }
+
+    .Cuotasbotapu1 {
+        margin-top: -50%;
+        margin-left: 28%;
+    }
+
+    .Cuotasbotapu2 {
+        margin-top: -50%;
+        margin-left: 28%;
+    }
+
+    .Cuotasbotapu3 {
+        margin-top: -5%;
+        margin-left: 28%;
     }
     
 }
