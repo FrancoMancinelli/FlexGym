@@ -916,6 +916,22 @@ table {
     .Cuotasc1contenido1 {
         font-size: 18px;
     }
+
+    .Cuotascuadro2 {
+        width: 400px;
+        margin-left: 6%;
+    }
+
+    .Cuotascuadro3 {
+        margin-left: 7%;
+        width: 400px;
+    }
+
+    .Cuotascuadro4 {
+        margin-top: 7%;
+        margin-left: 30%;
+        width: 400px;
+    }
     
 }
 
