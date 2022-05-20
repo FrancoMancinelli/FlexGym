@@ -889,22 +889,23 @@ table {
 
     .Iniciocuadro2 {
         width: 735px;
+        margin-left: 11%;
     }
 
     .Iniciocuadro3 {
-        margin-top: 5%;
-        margin-right: 50%;
+        margin-top: 8%;
         width: 735px;
 
     }
 
-    .Iniciocontenidocentral1 {
+    .Iniciocontenidocentral1, .Cuotascontenidocentral1 {
         height: 1800px;
     }
 
     .Cuotascuadro1{
         margin-top: 24%;
     }
+    
 }
 
 @media (max-width: 900px) {

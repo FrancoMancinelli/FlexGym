@@ -3,6 +3,7 @@ var rosaOriginal = "rgb(239, 71, 111)";
 var w = window.innerWidth;
 var h = window.innerHeight;
 
+alert(w);
 
 function colorearRosa(boton){
     boton.style.color = rosaOriginal;
