@@ -878,6 +878,11 @@ table {
         margin-top: 19%;
     }
 
+    .Inicioc1contenido1, .Inicioc1contenido2, .Inicioc1contenido3 {
+        font-size: 1;
+        color:rgb(53, 56, 57);
+    }
+
     .Cuotascuadro1{
         margin-top: 24%;
     }
@@ -954,8 +959,7 @@ table {
     }
       
       .Inicioc1contenido1, .Inicioc1contenido2, .Inicioc1contenido3 {
-        font-size: 1px;
-        color: rgb(53, 56, 57);
+        font-size: 12.5px;
     }
 
     .Inicioc2{
