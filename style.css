@@ -889,14 +889,14 @@ table {
 
     .Iniciocuadro2 {
         width: 948px;
-        margin-left: 0%;
+        margin-left: 1%;
         margin-right: 0%;
     }
 
     .Iniciocuadro3 {
         margin-top: 8%;
         width: 948px;
-        margin-left: 0%;
+        margin-left: 1%;
         margin-right: 0%;
 
     }
@@ -907,6 +907,14 @@ table {
 
     .Cuotascuadro1{
         margin-top: 24%;
+    }
+
+    .Cuotasc1contenido {
+        font-size: 30px;
+    }
+
+    .Cuotasc1contenido1 {
+        font-size: 18px;
     }
     
 }
